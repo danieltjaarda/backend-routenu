@@ -33,7 +33,6 @@ Klik op **"Advanced"** en voeg de volgende environment variables toe:
 |-----|-------|
 | `PORT` | `8001` |
 | `RESEND_API_KEY` | `re_iDLLL1LU_NKoUQ1R5oReCnu4AJawE8Sy3` |
-| `STRIPE_SECRET_KEY` | `your_stripe_secret_key` |
 | `MAPBOX_SECRET_TOKEN` | `sk.eyJ1IjoiZmF0YmlrZWh1bHAiLCJhIjoiY21qNnhqdXdjMDExcDNkczZrNmN6ZGtkcCJ9._qbrsDUZpEOR97cAI17-hA` |
 | `NODE_ENV` | `production` |
 
